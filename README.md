@@ -1,1 +1,1 @@
-This repo about basic search algorithm in python
+This repo about basic search algorithms in python
